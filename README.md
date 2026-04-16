@@ -43,11 +43,11 @@ npm start
 ```
 ---
 
-## ## ▶️ Usage
+## ▶️ Usage
 1. Open browser at: http://localhost:3000  
 2. Register a new account  
 3. Log in to the system  
-4. Browse and access learning content  t
+4. Browse and access learning content 
 ---
 
 ## 📁 Project Structure
@@ -65,8 +65,8 @@ golearn-app/
 | 1 | Le Thi Kieu Trang | 23010502 | 
 | 2 | Quach Huu Nam | 23012358 | 
 | 3 | Trieu Tien Quynh | 23010648 | 
-| 4 | Nguyen Tien Luc |  | 
-| 5 | Do Hong Thai |  | 
+| 4 | Nguyen Tien Luc | 23010862 | 
+| 5 | Do Hong Thai | 23010687 | 
 ---
 
 ## 🔮 Future Improvements
